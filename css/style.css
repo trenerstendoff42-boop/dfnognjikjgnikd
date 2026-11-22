@@ -1,0 +1,160 @@
+h1,h2,h3,h4,h5,h6,ul,li,a,p,i{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.zag{
+ width: 100%;   
+   display: flex;
+   height: 50px; 
+justify-content: space-between;
+}
+header a{
+   color: black; 
+   font-size: 18px; 
+   transition: 0,5s; 
+    
+}
+
+header .buton a{
+margin-left: 20px;
+
+}
+header .menu{
+    display: flex;
+    justify-content: center;
+   align-items: center; 
+    height: 50px;
+    width: 200px;
+}
+header .menu-t{
+    display: flex;
+    justify-content: center;
+   align-items: center; 
+    height: 50px;
+    width: 200px;
+}
+header .logo{
+   
+display: flex;
+   justify-content: center;
+   align-items: center; 
+   
+}
+header a:hover{
+  color: rgb(0, 227, 243);  
+ 
+    
+    
+}
+.img-s {
+   position: relative; 
+   
+    object-fit: cover;
+   
+}
+.img-s .text{
+  position: absolute;  
+   top: 40%;
+   left: 40%;
+    z-index: 10;
+   color: white; 
+    
+}
+.img-s .text{
+  text-align: center;  
+    
+    
+}
+.container{
+  margin-left: 13%;  
+
+    
+    
+}
+.j{
+   margin-top: 30px; 
+    
+    
+}
+header{
+    margin-top: 20px;
+    
+    
+}
+.j a{
+color: white;
+
+}
+.j .text h1{
+  margin-bottom: 20px;  
+    
+    
+}
+.j .text h5{
+    margin-bottom: 30px;  
+      
+      
+  }
+  .prod .row{
+    justify-content: space-between;
+    margin-left: 3px;
+    
+  }
+  .prod{
+   margin-top: 30px; 
+    
+    
+  }
+  .prod .text h1{
+    margin-bottom: 30px;
+    
+    
+  }
+  .prod .text p{
+    margin-bottom: 20px;
+    
+    
+  }
+  .prod .text{
+width: 500px;
+  text-align: center;  
+margin-bottom: 30px;
+margin-left: 36.5%;
+  }
+  .prod .fg{
+  text-align: center; 
+    
+    
+  }
+  .prod .fg h3{
+    text-align: center; 
+    margin-top: 30px;  
+    margin-bottom: 20px;
+    margin-left: 130px;
+      
+    }
+    .fg a{
+      margin-left: 125px; 
+      
+    }
+    .prod .ff{
+      text-align: center; 
+        
+        
+      }
+      .prod .ff h3{
+        text-align: center; 
+        margin-top: 30px;  
+        margin-bottom: 20px;
+        margin-left: 130px;
+          
+        }
+        .ff a{
+          margin-left: 125px; 
+          
+        } 
+    
+    
